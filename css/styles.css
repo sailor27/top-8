@@ -12,18 +12,29 @@ p {
   font-family: sans-serif;
   color: #4749C8;
   font-weight: bold;
+  font-size: 20px;
 }
 img {
   width: 250px;
   height: 250px;
   border-style:solid;
   border-color: blue;
+  object-fit: cover;
 }
 
 h1 {
-  background-color: orange;
-  padding: 10px;
-  color: 
+  background-color: #FAC06C;
+  padding: 15px;
+  color:#FF7000;
+  font-family: sans-serif;
+  margin-left: 20px;
+  font-size: 2em;
+}
+
+h2{
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-left: 25px;
 }
 
 .online {
