@@ -1,0 +1,35 @@
+.profile-space {
+float: left;
+box-sizing: border-box;
+padding: 5px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+  color: #4749C8;
+  font-weight: bold;
+}
+img {
+  width: 250px;
+  height: 250px;
+  border-style:solid;
+  border-color: blue;
+}
+
+h1 {
+  background-color: orange;
+  padding: 10px;
+  color: 
+}
+
+.online {
+  color:#41E137;
+}
+
+.red-text {
+  color: red;
+}
